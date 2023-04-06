@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Unbounded:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+
+div {
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+input {
+    display: block;
+    margin: 30px auto;
+    width: 165px;
+    height: 30px;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    width: 80px;
+    height: 40px;
+    font-size: 25px;
+}
+
+#distance {
+    height: 370px;
+    border: 6px outset rgba(93, 91, 91, 0.501);
+    background-color: rgba(234, 208, 208, 0.314);
+    font-family: 'Unbounded', cursive;
+}
+
+.inp1 {
+    border: 4px inset rgba(46, 41, 41, 0.836);
+    border-radius: 10px;
+}
+
+#but1 {
+    background-color: #f8e76584;
+    border-radius: 10px;
+}
+
+#choco {
+    border: 6px ridge rgba(223, 57, 57, 0.629);
+    background-color: rgba(135, 49, 2, 0.314);
+    height: 350px;
+    font-size: 20px;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+}
+
+#but2 {
+    background-color: #304b2e84;
+    border-radius: 10px;
+    color: rgb(237, 234, 234);
+}
+
+#currency {
+    border: 6px ridge rgba(223, 57, 57, 0.629);
+    background-color: rgba(238, 216, 127, 0.314);
+    height: 370px;
+    font-weight: 400;
+    font-family: 'Overpass', sans-serif;
+}
+
+#but3 {
+    background-color: #f0a35684;
+    border-radius: 10px;
+    color: rgb(74, 70, 70);
+}
+
+#dollar {
+    width: 220px;
+}
